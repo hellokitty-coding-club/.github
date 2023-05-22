@@ -1,5 +1,9 @@
-<img src="/art/logo/github-title.jpg" />
-
+<DIV style ="text-align:center";>
+            <img src="/art/logo/github-title.jpg" />
+</DIV>
+<DIV style ="text-align:center";>
+             <img src="/art/logo/LGTM.jpg" />   
+</DIV>
 ---
 
 <table align="center">
